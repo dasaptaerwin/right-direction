@@ -15,7 +15,11 @@ Hari ini, Jumat 14 Agustus 2020 saya akan memberikan materi tentang evaluasi kei
 
 Tujuannya untuk memperkirakan apakah riset geosains sudah menuju arah yang benar.
 
-Tentu saja arah yang benar ini akan sangat relatif dan subyektif, karena itu saya akan menggunakan indikator SDG (sustainable development goals) sebagai rujukan.
+Tentu saja arah yang benar ini akan sangat relatif dan subyektif, karena itu sebagai rujukan saya menggunakan [indikator SDG (sustainable development goals) yang dicanangkan oleh PBB](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) atau **TPB (Tujuan Pembangunan Berkelanjutan)**. Pencapaian SDG Indonesia dapat dilihat pada [Dashboard SDG berikut ini](https://dashboards.sdgindex.org/profiles/idn).
+
+![Spasial SDG](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/SDG-IDN.png)
+
+![Rincian SDG](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/SDG-IDN-2.png)
 
 ## Metode
 
@@ -23,15 +27,24 @@ Metode yang akan saya gunakan adalah bibliometrik, yaitu analisis kuantitatif te
 
 Dalam analisis tersebut perangkat yang saya gunakan adalah:
 
-1. Basis data Dimensions dan Scopus
-2. Aplikasi open source Bibliometrix yang dijalankan dari R
+1. Basis data [Dimensions](app.dimensions.ai) dan [Scopus](scopus.com) yang dilanggan oleh ITB. 
+2. Aplikasi open source Bibliometrix yang dijalankan dari R.
+
+Pada masing-masing basis data, saya melakukan pencarian dengan kata kunci `institut teknologi bandung` dengan mengaktifkan filter tahun penerbitan 2018, 2019, dan 2020. Idealnya analisis dilakukan selama 5 atau 10 tahun untuk melihat jumlah sitasinya. Yang saya lihat adalah jumlah sitasi sebagai angka, bukan dampak. Jadi mohon tidak diartikan secara berlebihan.
 
 Materi dapat dibaca di [blog ini](http://dasaptaerwin.net/wp/2020/08/evaluasi-kontribusi-ilmu-kebumian-dalam-pembangunan-berkelanjutan.html), sedangkan seluruh data, analisis, dan visualisasi dapat diunduh di [Repositori Github ini](https://github.com/dasaptaerwin/right-direction). 
 
-## Data
+Saya juga pernah membuat telaah sejenis pada bulan [Maret 2019](http://dasaptaerwin.net/wp/2019/03/riset-indonesia-wos.html) dan [Maret 2020](https://derwinirawan.wordpress.com/2020/03/30/sejauh-mana-publikasi-di-bidang-ilmu-kebumian/) yang lalu. 
+
+
+## Hasil dan diskusi
+
+### Dimensions
+
+Dalam proses pengembangan.
 
 ### Scopus
 
+Dalam proses pengembangan.
 
 
-### Dimensions
