@@ -1,0 +1,37 @@
+---
+title: "EVALUASI KONTRIBUSI KEILMUAN GEOLOGI DALAM PEMBANGUNAN BERKELANJUTAN: APAKAH SUDAH MENUJU ARAH YANG BENAR"
+author: "Dasapta Erwin Irawan"
+date: "8/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Pendahuluan
+
+Hari ini, Jumat 14 Agustus 2020 saya akan memberikan materi tentang evaluasi keilmuan geologi (geosains) dalam pembangunan berkelanjutan. 
+
+Tujuannya untuk memperkirakan apakah riset geosains sudah menuju arah yang benar.
+
+Tentu saja arah yang benar ini akan sangat relatif dan subyektif, karena itu saya akan menggunakan indikator SDG (sustainable development goals) sebagai rujukan.
+
+## Metode
+
+Metode yang akan saya gunakan adalah bibliometrik, yaitu analisis kuantitatif terhadap literatur yang telah dihasilkan oleh dosen/peneliti ITB.
+
+Dalam analisis tersebut perangkat yang saya gunakan adalah:
+
+1. Basis data Dimensions dan Scopus
+2. Aplikasi open source Bibliometrix yang dijalankan dari R
+
+Materi dapat dibaca di [blog ini](http://dasaptaerwin.net/wp/2020/08/evaluasi-kontribusi-ilmu-kebumian-dalam-pembangunan-berkelanjutan.html), sedangkan seluruh data, analisis, dan visualisasi dapat diunduh di [Repositori Github ini](https://github.com/dasaptaerwin/right-direction). 
+
+## Data
+
+### Scopus
+
+
+
+### Dimensions
