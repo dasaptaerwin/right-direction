@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![Poster event](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/LOGISTIK/poster.jpeg)
+
 ## Pendahuluan
 
 Hari ini, Jumat 14 Agustus 2020 saya akan memberikan materi tentang evaluasi keilmuan geologi (geosains) dalam pembangunan berkelanjutan. 
