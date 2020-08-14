@@ -23,6 +23,10 @@ Tentu saja arah yang benar ini akan sangat relatif dan subyektif, karena itu seb
 
 ![Rincian SDG](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/SDG-IDN-2.png)
 
+Materi dapat dibaca di [blog ini](http://dasaptaerwin.net/wp/2020/08/evaluasi-kontribusi-ilmu-kebumian-dalam-pembangunan-berkelanjutan.html), sedangkan seluruh data, analisis, dan visualisasi dapat diunduh di [Repositori Github ini](https://github.com/dasaptaerwin/right-direction). 
+
+Saya juga pernah membuat telaah sejenis pada bulan [Maret 2019](http://dasaptaerwin.net/wp/2019/03/riset-indonesia-wos.html) dan [Maret 2020](https://derwinirawan.wordpress.com/2020/03/30/sejauh-mana-publikasi-di-bidang-ilmu-kebumian/) yang lalu. 
+
 ## Metode
 
 Metode yang akan saya gunakan adalah bibliometrik, yaitu analisis kuantitatif terhadap literatur yang telah dihasilkan oleh dosen/peneliti ITB.
@@ -33,11 +37,15 @@ Dalam analisis tersebut perangkat yang saya gunakan adalah:
 2. Aplikasi open source Bibliometrix yang dijalankan dari [R](cran.r-project.org/).
 3. Aplikasi [Vosviewer](vosviewer.com) yang berbasis Java.
 
-Pada masing-masing basis data, saya melakukan pencarian dengan kata kunci `institut teknologi bandung` dengan mengaktifkan filter tahun penerbitan 2018, 2019, dan 2020. Idealnya analisis dilakukan selama 5 atau 10 tahun untuk melihat jumlah sitasinya. Yang saya lihat adalah jumlah sitasi sebagai angka, bukan dampak. Jadi mohon tidak diartikan secara berlebihan.
+Teknik pencarian literatur:
 
-Materi dapat dibaca di [blog ini](http://dasaptaerwin.net/wp/2020/08/evaluasi-kontribusi-ilmu-kebumian-dalam-pembangunan-berkelanjutan.html), sedangkan seluruh data, analisis, dan visualisasi dapat diunduh di [Repositori Github ini](https://github.com/dasaptaerwin/right-direction). 
+- Dimensions: kata kunci `institut teknologi bandung` menghasilkan 15,000+ kemudian tabel hasil pencarian diunduh. Dimensions dalam modus layanan gratis, hanya memberikan 2500 data makalah paling atas yang disortasi berdasarkan tanggal penerbitan.
 
-Saya juga pernah membuat telaah sejenis pada bulan [Maret 2019](http://dasaptaerwin.net/wp/2019/03/riset-indonesia-wos.html) dan [Maret 2020](https://derwinirawan.wordpress.com/2020/03/30/sejauh-mana-publikasi-di-bidang-ilmu-kebumian/) yang lalu. 
+- Scopus: kata kunci `institut teknologi bandung` menghasilkan 15,000+. 
+
+  a. dilakukan sortasi berdasarkan jumlah sitasi, kemudian diunduh (2000 makalah teratas).
+  b. dilakukan sortasi berdasarkan tanggal penerbitan terbaru, kemudian diunduh (2000 makalah teratas). Tidak dianalisis karena mengandung kesalahan.
+  c. tanpa dilakukan sortasi dan dilakukan pengunduhan 15,000+ data makalah. Juga tidak dianalisis karena mengandung kesalahan. 
 
 
 ## Hasil dan diskusi
