@@ -1,8 +1,11 @@
 ---
-title: "EVALUASI KONTRIBUSI KEILMUAN GEOLOGI DALAM PEMBANGUNAN BERKELANJUTAN: APAKAH SUDAH MENUJU ARAH YANG BENAR"
+title: 'EVALUASI KONTRIBUSI KEILMUAN GEOLOGI DALAM PEMBANGUNAN BERKELANJUTAN: APAKAH
+  SUDAH MENUJU ARAH YANG BENAR'
 author: "Dasapta Erwin Irawan"
 date: "8/14/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -26,6 +29,12 @@ Tentu saja arah yang benar ini akan sangat relatif dan subyektif, karena itu seb
 Materi dapat dibaca di [blog ini](http://dasaptaerwin.net/wp/2020/08/evaluasi-kontribusi-ilmu-kebumian-dalam-pembangunan-berkelanjutan.html), sedangkan seluruh data, analisis, dan visualisasi dapat diunduh di [Repositori Github ini](https://github.com/dasaptaerwin/right-direction). 
 
 Saya juga pernah membuat telaah sejenis pada bulan [Maret 2019](http://dasaptaerwin.net/wp/2019/03/riset-indonesia-wos.html) dan [Maret 2020](https://derwinirawan.wordpress.com/2020/03/30/sejauh-mana-publikasi-di-bidang-ilmu-kebumian/) yang lalu. 
+
+## Peran ilmu kebumian untuk 
+
+![Geoscience for the future](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/Geoscience for the future.png)
+[Tautan gambar](https://www.geolsoc.org.uk/Posters) 
+
 
 ## Metode
 
