@@ -4,8 +4,9 @@ title: 'EVALUASI KONTRIBUSI KEILMUAN GEOLOGI DALAM PEMBANGUNAN BERKELANJUTAN: AP
 author: "Dasapta Erwin Irawan"
 date: "8/14/2020"
 output:
-  pdf_document: default
+  word_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
