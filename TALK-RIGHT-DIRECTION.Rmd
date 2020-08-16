@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+# knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![Poster event](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/LOGISTIK/poster.jpeg)
@@ -63,9 +63,39 @@ Teknik pencarian literatur:
 
 Show and tell.
 
-### Scopus
+### Menurut Scopus
 
-Show and tell.
+#### Tema riset
+
+Di sini saya menampilkan pemetaan kata kunci menggunakan Vosviewer, tema riset dan trennya menggunakan Bibliometrix. Dalam gambar di bawah ini terlihat beberapa klaster. 
+
+![Top keywords](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcite-keyword.png)
+
+![Top thematic](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcites-thematic.png)
+
+
+
+![Tren topic riset 2018-2020](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcite-trendtopic.png)
+
+
+
+![Co affiliation](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcites-coaffil.png)
+
+![Co author](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcites-coauthor.png)
+
+
+
+### Kerjasama berdasarkan negara
+
+Kerjasama ITB yang menonjol adalah dengan negara-negara sebagai berikut:
+
+- Benua Eropa: Belanda, Perancis, dan Jerman,
+- Benua Asia: Jepang. Hubungan dengan Korea Selatan juga mulai terlihat. Khusus regional Asia Tenggara, kerjasama yang juga menonjol adalah dengan Malaysia, 
+- Benua Amerika: Amerika Serikat,
+- Benua Australia: Australia.
+
+![Kerjasama menurut negara](/Users/cutnoviantirachmi/Downloads/TALK-RIGHT-DIRECTION/VISUALISASI/Scopus-topcites/scopus-topcite-cocountries.png)
+
 
 ## Kesimpulan sementara
 
